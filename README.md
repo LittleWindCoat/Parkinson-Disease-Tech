@@ -1,0 +1,2 @@
+# Parkinson Disease Tech
+ Parkinson's Disease Tech(PDT) is seeking to research and develop an application for a new venture that will use voice readings from patients, uploaded into the cloud securely, for which an AI algorithm is applied that will provide information regarding the presence, severity of Parkinson’s disease. Our project aims at helping Parkinson’s Disease Tech to define and develop its product. Also discover potential business problems and find out solutions.
